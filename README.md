@@ -1,2 +1,2 @@
 # auto-test-course
-Stepik course of Selenium AutoTesting
+Stepik course of Selenium AutoTesting!
