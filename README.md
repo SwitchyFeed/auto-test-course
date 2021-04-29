@@ -1,3 +1,3 @@
 # test-course
-Sollution of Stepik course of Selenium AutoTesting!
+Sollution of Stepik course of Selenium AutoTesting Python!
 
