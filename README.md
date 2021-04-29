@@ -1,3 +1,3 @@
-# auto-test-course
+# test-course
 Sollution of Stepik course of Selenium AutoTesting!
 
